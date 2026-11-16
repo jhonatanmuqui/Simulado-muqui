@@ -1,0 +1,26 @@
+ATUALIZAÇÃO DO APLICATIVO — VERSÃO 0.5
+Concurso Muqui/ES — Professor de Educação Infantil
+
+ARQUIVOS
+- index.html: aplicativo atualizado, visual grafite com pergunta em painel branco e alternativas em cartões de alto contraste.
+- sw.js: cache atualizado para forçar a versão nova a carregar.
+- manifest.json: cores do aplicativo instalável atualizadas.
+
+NOVIDADES
+- 100 questões autorais adicionais, com gabarito e comentários, organizadas pelas quatro disciplinas.
+- Banco inicial anterior preservado: 41 questões + 100 novas = 141 questões no primeiro carregamento.
+- Aba Estudar questões: sessões avulsas por disciplina ou misturadas, sem cronômetro e sem registrar um simulado.
+- Minhas questões: área separada para cadastrar, editar e excluir questões próprias.
+- Simulado continua separado, com cronômetro, pesos e resultado.
+- Atualização do banco é aditiva: questões pessoais e resultados já salvos no navegador não são apagados.
+
+COMO PUBLICAR
+1. Antes de atualizar, faça backup pelo menu Dados do aplicativo.
+2. Abra o repositório GitHub simulado-muqui.
+3. Entre na pasta principal do repositório.
+4. Envie/substitua os três arquivos: index.html, sw.js e manifest.json.
+5. Confirme o commit.
+6. Abra https://jhonatanmuqui.github.io/simulado-muqui/ e atualize a página. Se ainda aparecer a versão antiga, feche e abra o navegador novamente.
+
+OBSERVAÇÃO
+As questões novas são autorais para estudo, elaboradas com base nos tópicos das apostilas e do edital. Não são questões oficiais da IDESG nem previsão de cobrança.
