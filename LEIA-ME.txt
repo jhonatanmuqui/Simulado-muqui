@@ -1,0 +1,32 @@
+MEU SIMULADO – PROFESSOR DE EDUCAÇÃO INFANTIL – MUQUI/ES
+Versão 0.4
+
+O QUE JÁ VEM NO APLICATIVO
+- Banco inicial com 41 questões autorais: 10 de Língua Portuguesa, 11 de Informática, 10 de Conhecimentos Pedagógicos e 10 de Conhecimentos Específicos.
+- Questões com gabarito, comentário explicativo e justificativa para cada alternativa.
+- Prova completa no formato do edital (40 questões: sorteia 10 de cada disciplina).
+- Treino por disciplina ou com quantidade livre de questões.
+- Cronômetro, desempenho, correção comentada e eliminação/restauração de alternativas.
+- Cadastro, edição e exclusão de questões próprias.
+- Exportação e importação de backup JSON para guardar ou transportar suas questões e resultados.
+
+IMPORTANTE SOBRE O BANCO
+As questões iniciais são autorais, elaboradas para estudo a partir dos conteúdos do Anexo II do Edital nº 001/2026. Não são questões oficiais da IDESG nem reprodução de provas anteriores. O banco é inicial e pode ser ampliado por você. Confira sempre o edital, eventuais retificações e os textos legais oficiais.
+
+COMO INSTALAR NO IPHONE
+1. Hospede os arquivos em um endereço HTTPS (por exemplo, um serviço de hospedagem estática).
+2. Abra o endereço no Safari do iPhone.
+3. Toque em Compartilhar > Adicionar à Tela de Início.
+4. Abra pelo ícone criado na tela inicial.
+
+COMO ALIMENTAR O BANCO
+1. Entre na aba Questões e toque em Nova.
+2. Escolha a disciplina, informe o assunto e o enunciado.
+3. Preencha as quatro alternativas, o gabarito e o comentário explicativo.
+4. Se possível, explique individualmente por que cada alternativa está certa ou errada.
+5. Salve. A questão ficará disponível nos treinos e simulados.
+
+BACKUP E ARMAZENAMENTO
+Os dados ficam armazenados localmente no navegador/aplicativo deste iPhone. Na aba Dados, use Exportar meus dados para salvar um arquivo JSON. Para recuperar ou transferir o banco, use Restaurar backup em outro aparelho/navegador. Não limpe os dados do Safari/site sem antes exportar um backup.
+
+A prova completa segue a distribuição do item 12.1 do edital: Língua Portuguesa (10 questões, peso 2,5), Informática (10 questões, peso 2,0), Conhecimentos Pedagógicos (10 questões, peso 2,5) e Conhecimentos Específicos (10 questões, peso 3,0), totalizando 100 pontos. O item 12.4 exige pelo menos 50% da pontuação e não zerar nenhuma disciplina.
